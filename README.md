@@ -1,4 +1,4 @@
-# sli_tutorialAPI
+# Tutorial API - Sistem Layanan Web
 This repository to complete tasks from web service class.
 Alvin Matthew Pratama (1731092)
 Tutorial membuat API menggunakan PHP Native
